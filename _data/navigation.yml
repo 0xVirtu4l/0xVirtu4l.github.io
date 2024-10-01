@@ -1,0 +1,12 @@
+main:
+  - title: "College"
+    url: "/college/"
+    children:
+      - title: "First Year"
+        url: "/college/first-year/"
+        children:
+          - title: "First Term"
+            url: "/college/first-year/first-term/"
+            children:
+              - title: "Physics"
+                url: "/college/first-year/first-term/physics/"
